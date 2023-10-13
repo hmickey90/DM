@@ -1,0 +1,75 @@
+Mallet NFT: 15 topics, 4 topic bits, 1111 topic mask        #15種topic,topic bits=log(num_topics),mask看不出是什麼
+Data loaded.
+Max Noise Dist as of Initialization: 3                      #noise的影響程度
+Max Topic Value as of Initialization: 4                     #topic的長度
+skew: 25.0
+max tokens: 5                                               #每個topic常用的前5個token
+total tokens: 265                                           #總共出現265個token
+<10> LL/token: -7.77429
+<20> LL/token: -7.27543
+<30> LL/token: -7.07744
+<40> LL/token: -7.03081
+                                                            #不知道在哪設定的，每50次iteration會show出來
+0	3.33333	trump2016 pence terrible vote 
+1	3.33333	makes president night make melania 
+2	3.33333	rncincle 
+3	3.33333	vote rncincle party 
+4	3.33333	great clinton lost vote 
+5	3.33333	donald$trump floor 
+6	3.33333	republican make terrible night 
+7	3.33333	people delegates clinton vote 
+8	3.33333	melania 
+9	3.33333	gopconvention trumptrain donald hillary makes night 
+10	3.33333	nevertrump campaign hillary 
+11	3.33333	america make 
+12	3.33333	donald$trump donald america 
+13	3.33333	convention president 
+14	3.33333	convention party donald 
+
+<50> LL/token: -6.91312
+<60> LL/token: -7.20881
+<70> LL/token: -7.00371
+<80> LL/token: -6.94161
+<90> LL/token: -6.90848
+
+0	3.33333	terrible delegates night hillary 
+1	3.33333	president makes make 
+2	3.33333	rncincle 
+3	3.33333	vote make donald 
+4	3.33333	clinton lost delegates rncincle 
+5	3.33333	donald$trump donald 
+6	3.33333	republican trumptrain 
+7	3.33333	rncincle donald 
+8	3.33333	melania trumptrain 
+9	3.33333	trump2016 pence gopconvention trumptrain 
+10	3.33333	nevertrump campaign great donald hillary 
+11	3.33333	america people 
+12	3.33333	donald$trump hillary 
+13	3.33333	convention 
+14	3.33333	party floor republican 
+
+<100> LL/token: -6.93318
+<110> LL/token: -6.99107
+<120> LL/token: -7.02101
+<130> LL/token: -6.9171
+<140> LL/token: -7.09578
+
+0	3.33333	clinton night floor convention 
+1	3.33333	president donald makes 
+2	3.33333	rncincle nevertrump vote delegates 
+3	3.33333	party terrible make 
+4	3.33333	hillary america 
+5	3.33333	donald$trump delegates 
+6	3.33333	republican campaign vote 
+7	3.33333	rncincle 
+8	3.33333	melania nevertrump 
+9	3.33333	pence lost gopconvention trump2016 campaign 
+10	3.33333	great make trumptrain president trump2016 
+11	3.33333	america people trumptrain 
+12	3.33333	donald$trump 
+13	3.33333	convention 
+14	3.33333	vote floor convention donald 
+
+<150> LL/token: -7.0807
+
+NFT Total time: 0 seconds
